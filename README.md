@@ -34,11 +34,7 @@ I also worked on Hardware related projects involving NodeMCU, RaspberryPi, Ardui
 
 ### Connect with me on
 
-<a href="https://www.linkedin.com/in/harshithtunuguntla/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/kF9HMpz.png" width=40px height=40px title="source: imgur.com" /></a> &nbsp;  
-
-<a href="https://twitter.com/2f80ed" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/G7yTDHP.png" width=40px height=40px title="source: imgur.com" /></a> &nbsp;
-
-<a href="https://www.instagram.com/harshith.tunuguntla/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/M6yBwxS.png" width=40px height=40px title="source: imgur.com" /></a>
+<a href="https://www.linkedin.com/in/harshithtunuguntla/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/kF9HMpz.png" width=40px height=40px title="source: imgur.com" /></a> &nbsp; <a href="https://twitter.com/2f80ed" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/G7yTDHP.png" width=40px height=40px title="source: imgur.com" /></a> &nbsp;<a href="https://www.instagram.com/harshith.tunuguntla/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/M6yBwxS.png" width=40px height=40px title="source: imgur.com" /></a>
 
 ### Currently working on developing my site
 
