@@ -38,4 +38,4 @@ I also worked on Hardware related projects involving NodeMCU, RaspberryPi, Ardui
 
 ### Currently working on developing my site
 
-<a href="harshithtunuguntla.live" target="_blank" rel="noopener noreferrer">My Website</a> 
+<a href="www.harshithtunuguntla.live" target="_blank" rel="noopener noreferrer">My Website</a> 
