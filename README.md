@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on Web Development and Machine Learning Projects
-- 🌱 I’m currently learning front end frame-worsk (not decided yet 😅)
-- 👯 I’m looking to collaborate on projects related to Full Stack development and Machine Learning
+- 🔭 I’m currently working on Backend Development and Machine Learning Projects
+- 🌱 I’m currently trying to learn a front end frame-work (not decided to work on which one yet 😅)
+- 👯 Happy to collaborate on projects related to Full Stack development and Machine Learning
 - 📫 Reach out to me at harshithtunuguntla@gmail.com or harshith.tunuguntla.19cse@bmu.edu.in
 
 ### About Me
@@ -20,7 +20,7 @@ I skip to different projects and technologies learning what comes in my way. Cur
 
 ### Projects i'm working on
 
-I am working on development of a full stack website and small Machine Learning Projects.
+I am working on development of a full stack website and Small Machine Learning Projects.
 I also started 60Days Challenge for developing projects! (Wanna join me as a coding buddy, Hit me up!!!)
 
 ### Things I did previously
@@ -30,12 +30,9 @@ I also worked on Hardware related projects involving NodeMCU, RaspberryPi, Ardui
 
 ### Things that intrests me
 
-#Coding #NewTechnology #Productivity #creativity
+#Coding #NewTechnology #Productivity #Creative
 
 ### Connect with me on
 
 <a href="https://www.linkedin.com/in/harshithtunuguntla/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/kF9HMpz.png" width=40px height=40px title="source: imgur.com" /></a> &nbsp; <a href="https://twitter.com/2f80ed" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/G7yTDHP.png" width=40px height=40px title="source: imgur.com" /></a> &nbsp;<a href="https://www.instagram.com/harshith.tunuguntla/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/M6yBwxS.png" width=40px height=40px title="source: imgur.com" /></a>
 
-### Currently working on developing my site
-
-<a href="www.harshithtunuguntla.live" target="_blank" rel="noopener noreferrer">My Website</a> 
