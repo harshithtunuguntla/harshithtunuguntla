@@ -14,7 +14,7 @@ Here are some ideas to get you started: -->
 
 I am a Computer Science Undergrad, BML Munjal Univ. An electronics Hobbyist! Currently pursuing 3rd year! I love to code and am currently experimenting things 😅
 
-### Things i do
+### Things I do
 
 I skip to different projects and technologies learning what comes in my way. Currently working on productivity skill development and various other experiments to life
 
