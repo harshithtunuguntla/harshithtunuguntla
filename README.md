@@ -6,22 +6,21 @@
 Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on Backend Development and Machine Learning Projects
-- 🌱 I’m currently trying to learn a front end frame-work (not decided to work on which one yet 😅)
+- 🌱 I’m currently learning a ReactJS, a front end frame-work
 - 👯 Happy to collaborate on projects related to Full Stack development and Machine Learning
 - 📫 Reach out to me at harshithtunuguntla@gmail.com or harshith.tunuguntla.19cse@bmu.edu.in
 
 ### About Me
 
-I am a Computer Science Undergrad, BML Munjal Univ. An electronics Hobbyist! Currently pursuing 3rd year! I love to code and am currently experimenting things 😅
+I am a Computer Science Undergrad, BML Munjal Univ. An electronics Hobbyist! Currently pursuing 4th year! I love to code and am currently experimenting things 😅
 
 ### Things I do
 
-I skip to different projects and technologies learning what comes in my way. Currently working on productivity skill development and various other experiments to life
+I love learning new technologies and work on different projects that I feel like giving a try. Currently working on productivity skill development and various other experiments to life
 
 ### Projects i'm working on
 
-I am working on development of a full stack website and Small Machine Learning Projects.
-I also started 60Days Challenge for developing projects! (Wanna join me as a coding buddy, Hit me up!!!)
+I am working on development of a full stack websites involving Machine Learning concepts.
 
 ### Things I did previously
 
