@@ -1,4 +1,4 @@
-### Hi there, this is harshith!!👋
+### Hi there, this is Harshith!!👋
 
 <!-- 
 **harshithtunuguntla/harshithtunuguntla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
